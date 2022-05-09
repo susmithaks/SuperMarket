@@ -1,0 +1,12 @@
+D:\Sus_study\SuperMarket\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe.config
+D:\Sus_study\SuperMarket\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe
+D:\Sus_study\SuperMarket\SuperMarket\SuperMarket\bin\Debug\SuperMarket.pdb
+D:\Sus_study\SuperMarket\SuperMarket\SuperMarket\bin\Debug\EntityFramework.dll
+D:\Sus_study\SuperMarket\SuperMarket\SuperMarket\bin\Debug\EntityFramework.SqlServer.dll
+D:\Sus_study\SuperMarket\SuperMarket\SuperMarket\bin\Debug\EntityFramework.xml
+D:\Sus_study\SuperMarket\SuperMarket\SuperMarket\bin\Debug\EntityFramework.SqlServer.xml
+D:\Sus_study\SuperMarket\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.AssemblyReference.cache
+D:\Sus_study\SuperMarket\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.CoreCompileInputs.cache
+D:\Sus_study\SuperMarket\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.CopyComplete
+D:\Sus_study\SuperMarket\SuperMarket\SuperMarket\obj\Debug\SuperMarket.exe
+D:\Sus_study\SuperMarket\SuperMarket\SuperMarket\obj\Debug\SuperMarket.pdb
