@@ -14,6 +14,7 @@ namespace SuperMarket
 
 
             public List<EmployeeDetails> EmployeeList = new List<EmployeeDetails>();
+            //constructor
             public Operation()
             {
                 //EmployeeDetails Employee1 = new EmployeeDetails()
