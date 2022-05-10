@@ -10,5 +10,8 @@ namespace SuperMarket.Models
     class SuperMarketContext : DbContext
     {
         public DbSet<EmployeeDetails> EmployeeDetails { get; set; }
+        public DbSet<ItemDetails> ItemDetails { get; set; }
+
+
     }
 }

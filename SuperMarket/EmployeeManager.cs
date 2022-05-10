@@ -8,14 +8,14 @@ using System.Threading.Tasks;
 namespace SuperMarket
 {
     
-        public class Operation
+        public class EmployeeManager
         {
             SuperMarketContext dbcontext = new SuperMarketContext();
 
 
-            public List<EmployeeDetails> EmployeeList = new List<EmployeeDetails>();
+           // public List<EmployeeDetails> EmployeeList = new List<EmployeeDetails>();
             //constructor
-            public Operation()
+            public EmployeeManager()
             {
                 //EmployeeDetails Employee1 = new EmployeeDetails()
                 //{

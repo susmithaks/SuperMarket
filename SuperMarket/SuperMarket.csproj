@@ -53,9 +53,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ItemManager.cs" />
     <Compile Include="Models\EmployeeDetails.cs" />
+    <Compile Include="Models\ItemDetails.cs" />
     <Compile Include="Models\SuperMarketContext.cs" />
-    <Compile Include="Operation.cs" />
+    <Compile Include="EmployeeManager.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
